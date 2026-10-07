@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Actividad3Application {
-
+// pepe está bien
 	public static void main(String[] args) {
 		SpringApplication.run(Actividad3Application.class, args);
 	}
