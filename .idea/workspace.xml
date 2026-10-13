@@ -4,27 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e212b81b-65f9-456b-a78a-a54e3099a218" name="Changes" comment="Actividad4 completada" />
+    <list default="true" id="e212b81b-65f9-456b-a78a-a54e3099a218" name="Changes" comment="Actividad4 completada2">
+      <change afterPath="$PROJECT_DIR$/Actividad5/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Actividad5Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/ResumenDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/controller/PedidoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/main/resources/templates/Formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad5/src/test/java/com/actividad5/Actividad5/Actividad5ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AngelRC-DAW"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AngelRC-DAW&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AngelRC-DAW/opt-daw.git",
-    "accountId": "91894fda-5d8e-4510-b1bc-e061696ce5ee"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AngelRC-DAW/opt-daw.git&quot;,
+    &quot;accountId&quot;: &quot;91894fda-5d8e-4510-b1bc-e061696ce5ee&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -35,13 +63,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.Actividad5Application.executor": "Run",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Angel/Desktop/Clase/DAW/2DAW/optativa/Repositorio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,6 +89,15 @@
       <recent name="C:\Users\Angel\Desktop\Clase\DAW\2DAW\optativa\Repositorio" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Actividad5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Actividad5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.actividad5.Actividad5.Actividad5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +105,9 @@
         <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.33" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +118,8 @@
       <updated>1791506327927</updated>
       <workItem from="1791506329050" duration="118000" />
       <workItem from="1791506460414" duration="119000" />
+      <workItem from="1791506582819" duration="125000" />
+      <workItem from="1791926698402" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="Actividad4 completada">
       <option name="closed" value="true" />
@@ -80,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791506548720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actividad4 completada2">
+      <option name="closed" value="true" />
+      <created>1791506671080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791506671080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +145,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actividad4 completada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividad4 completada" />
+    <MESSAGE value="Actividad4 completada2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad4 completada2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Pedido.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
