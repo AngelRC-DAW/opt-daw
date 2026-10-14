@@ -11,7 +11,7 @@ public class PedidoController {
 
     @PostMapping("/pedido")
     public ResumenDTO procesarPedido(@RequestBody Pedido pedido) {
-        int totalProductos = 0;
+        Integer totalProductos = 0;
         BigDecimal precioTotal = BigDecimal.ZERO;
 
         // Recorremos la lista de productos para sumar cantidades y calcular subtotales

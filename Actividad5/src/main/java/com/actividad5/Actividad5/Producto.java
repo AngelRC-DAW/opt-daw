@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Producto {
     private String nombre;
-    private int cantidad;
+    private Integer cantidad;
     private BigDecimal precioUnitario;
 
     // Getters y Setters
@@ -16,11 +16,11 @@ public class Producto {
         this.nombre = nombre;
     }
 
-    public int getCantidad() {
+    public Integer getCantidad() {
         return cantidad;
     }
 
-    public void setCantidad(int cantidad) {
+    public void setCantidad(Integer cantidad) {
         this.cantidad = cantidad;
     }
 

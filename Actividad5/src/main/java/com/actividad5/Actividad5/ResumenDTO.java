@@ -4,11 +4,11 @@ import java.math.BigDecimal;
 
 public class ResumenDTO {
     private String cliente;
-    private int totalProductos;
+    private Integer totalProductos;
     private BigDecimal precioTotal;
     private String mensaje;
 
-    public ResumenDTO(String cliente, int totalProductos, BigDecimal precioTotal, String mensaje) {
+    public ResumenDTO(String cliente, Integer totalProductos, BigDecimal precioTotal, String mensaje) {
         this.cliente = cliente;
         this.totalProductos = totalProductos;
         this.precioTotal = precioTotal;
