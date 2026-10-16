@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e212b81b-65f9-456b-a78a-a54e3099a218" name="Changes" comment="Actividad4 completada">
-      <change afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/controller/RegistroController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/model/Registro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e212b81b-65f9-456b-a78a-a54e3099a218" name="Changes" comment="Actividad4 completada2">
+      <change afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/model/BaseDatosUsuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/model/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/static/english.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/static/french.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/static/german.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad3/target/classes/static/spanish.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/ResumenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/ResumenDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/controller/PedidoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/controller/PedidoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad5/src/main/resources/templates/Formulario.html" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad6/src/main/resources/templates/formulario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/controller/RegistroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/controller/RegistroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad6/src/main/java/com/actividad5/Actividad6/model/Registro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad6/src/main/resources/templates/formulario.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -49,13 +41,6 @@
     &quot;accountId&quot;: &quot;91894fda-5d8e-4510-b1bc-e061696ce5ee&quot;
   }
 }</component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -66,13 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.Actividad3Application.executor": "Run",
+    "Spring Boot.Actividad5Application.executor": "Run",
     "Spring Boot.Actividad6Application.executor": "Run",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -80,11 +62,10 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Angel/Desktop/Clase/DAW/2DAW/optativa/Repositorio",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "run.configurations.included.in.services": "true",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -95,8 +76,10 @@
       <recent name="C:\Users\Angel\Desktop\Clase\DAW\2DAW\optativa\Repositorio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\usuario\Documents\opt-daw\Actividad6\src\main\resources\templates" />
       <recent name="C:\Users\Angel\Desktop\Clase\DAW\2DAW\optativa\Repositorio" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.actividad5.Actividad6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,8 +96,7 @@
         <entry key="SpringBootApplicationConfigurationType">
           <value>
             <map>
-              <entry key="Actividad3Application" value="STOPPED" />
-              <entry key="Actividad6Application" value="STOPPED" />
+              <entry key="Actividad6Application" value="FAILED" />
             </map>
           </value>
         </entry>
@@ -122,13 +104,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Actividad6Application">
-    <configuration name="Actividad3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="Actividad3" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.actividad3.actividad3.Actividad3Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Actividad4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="actividad4" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.actividad4.actividad4.Actividad4Application" />
@@ -159,6 +134,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e212b81b-65f9-456b-a78a-a54e3099a218" name="Changes" comment="" />
@@ -168,6 +146,8 @@
       <updated>1791506327927</updated>
       <workItem from="1791506329050" duration="118000" />
       <workItem from="1791506460414" duration="119000" />
+      <workItem from="1791506582819" duration="125000" />
+      <workItem from="1791926698402" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="Actividad4 completada">
       <option name="closed" value="true" />
@@ -177,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791506548720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actividad4 completada2">
+      <option name="closed" value="true" />
+      <created>1791506671080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791506671080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +173,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actividad4 completada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividad4 completada" />
+    <MESSAGE value="Actividad4 completada2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad4 completada2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Actividad5/src/main/java/com/actividad5/Actividad5/Pedido.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
